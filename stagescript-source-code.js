@@ -1,3 +1,5 @@
+//WARNING! THIS CODE IS NOT VALID JS, BUT IT IS MADE IN A SCRATCH LIKE ENGINE NAMED SCOOLCODE, WHICH USES STAGESCRIPT
+
 stage {
     default backdrop windowsxpback("user:medintu.vlad/windowsxpback")
     backdrop bsod_yaaaay("user:medintu.vlad/bsod yaaaay")
